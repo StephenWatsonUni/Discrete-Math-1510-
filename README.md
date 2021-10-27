@@ -1,2 +1,2 @@
-# Discrete-Math-1510
+# Discrete-Mathematics-1510
 Introduction to discrete mathematics.
